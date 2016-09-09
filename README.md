@@ -1,2 +1,4 @@
 # Hello-World
-Just another repository
+This is a change to get used to git.
+
+This is a change after the initial.
